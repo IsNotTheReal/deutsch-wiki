@@ -1,1 +1,3 @@
-# deutsch-wiki
+# 🇩🇪 Deutsch Lernen Wiki
+
+mkdocs serve
